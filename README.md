@@ -30,4 +30,4 @@ A simple and interactive **Loan Calculator** built using HTML, CSS, and JavaScri
 ##  How to Run
 1. Clone the repository  
    ```bash
-   git clone https://github.com/your-username/loan-calculator.git
+   git clone https://github.com/GarlicDeveloper/loan-calculator.git
