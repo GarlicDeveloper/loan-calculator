@@ -23,7 +23,7 @@ A simple and interactive **Loan Calculator** built using HTML, CSS, and JavaScri
 
 ##  Output
 
-![Loan Calculator Output](Screenshot.png)
+![Loan Calculator Output](Screensho.png)
 
 ---
 
